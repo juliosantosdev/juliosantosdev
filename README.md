@@ -64,7 +64,6 @@ Plataforma completa para gestão de entregas e otimização de rotas.
 *   **Destaques Técnicos:** Mapa interativo 3D (MapLibre), roteamento via OSRM, integração com dados abertos (clima, radares e área azul) e regras de negócio complexas isoladas em módulos testáveis via Node.js.
 *   **Segurança:** Implementação de RLS (Row Level Security) e autenticação robusta.
 
-*(Espaço reservado para seus próximos projetos)*
 
 ---
 
