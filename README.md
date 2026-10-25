@@ -10,9 +10,20 @@
 
 Sou um desenvolvedor focado em **Arquitetura de Software** e na construção de aplicações modernas de ponta a ponta. Meu objetivo é traduzir problemas reais em soluções tecnológicas bem estruturadas, priorizando escalabilidade, segurança, experiência do usuário e resiliência.
 
-Meu grande diferencial está na condução do desenvolvimento: atuo como o arquiteto da solução, desenhando a modelagem de dados, definindo as regras de negócio e estruturando os componentes do sistema. Para a implementação, utilizo **fluxos de trabalho modernos potencializados por IA** (como DeepSeek, Gemini e Copilot). Essa abordagem me permite acelerar a entrega, focando no que realmente importa: a qualidade da arquitetura, a integração de sistemas complexos e a validação rigorosa por meio de testes automatizados.
+Meu grande diferencial está na condução do desenvolvimento: atuo como o arquiteto da solução, desenhando a modelagem de dados, definindo as regras de negócio e estruturando os componentes do sistema. 
 
 Acredito na separação de responsabilidades (Clean Code), garantindo que os projetos sejam modulares, testáveis e de fácil manutenção.
+
+---
+
+## 🔄 Meu Fluxo de Trabalho & Metodologia
+
+Para garantir entregas de alta qualidade, atuo em todas as etapas do ciclo de vida do software:
+
+*   **UX/UI & Prototipagem:** Criação de wireframes de alta fidelidade (Figma/Canva) e design de interfaces focado na experiência do usuário.
+*   **Modelagem & Produto:** Definição de regras de negócio complexas, mapeamento de fluxo de dados e requisitos funcionais (visão de Product Ownership).
+*   **Desenvolvimento AI-First:** Uso estratégico de IA (AI-Assisted Development) e engenharia de prompts para acelerar a criação de arquiteturas base e impulsionar a produtividade.
+*   **Qualidade & Refinamento:** Code Review rigoroso, refatoração contínua e implementação de testes automatizados para garantir segurança e consistência na entrega.
 
 ---
 
@@ -36,8 +47,8 @@ Acredito na separação de responsabilidades (Clean Code), garantindo que os pro
 *   Segurança e RLS (Row Level Security)
 
 **Ferramentas de Produtividade & IA:**
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
 
