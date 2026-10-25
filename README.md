@@ -1,7 +1,9 @@
 # Olá, eu sou o Julio Santos 👋
 
 🎓 Graduando em Análise e Desenvolvimento de Sistemas (ADS) na reta final.
+
 🏗️ **Arquiteto de Software & Desenvolvedor Full-Stack**.
+
 📍 Juiz de Fora, MG.
 
 ---
