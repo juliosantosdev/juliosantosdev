@@ -56,16 +56,6 @@ Para garantir entregas de alta qualidade, atuo em todas as etapas do ciclo de vi
 
 ---
 
-## 🚀 Projetos em Destaque
-
-### 🛵 Radar Entregas JF (PWA)
-Plataforma completa para gestão de entregas e otimização de rotas.
-*   **Arquitetura:** Aplicação offline-first com banco de dados relacional (Supabase/PostgreSQL) e sincronização via IndexedDB.
-*   **Destaques Técnicos:** Mapa interativo 3D (MapLibre), roteamento via OSRM, integração com dados abertos (clima, radares e área azul) e regras de negócio complexas isoladas em módulos testáveis via Node.js.
-*   **Segurança:** Implementação de RLS (Row Level Security) e autenticação robusta.
-
-
----
 
 ## 📊 Estatísticas do GitHub
 
