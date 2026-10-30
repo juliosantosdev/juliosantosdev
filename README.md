@@ -1,3 +1,4 @@
+![Profile Views](https://komarev.com/ghpvc/?username=juliosantosdev&label=Profile%20views&color=blue&style=flat)
 # Olá, eu sou o Julio Santos 👋
 
 🎓 Graduando em Análise e Desenvolvimento de Sistemas (ADS) na reta final.
